@@ -101,7 +101,7 @@ This ensures a clear separation of concerns, making the codebase easy to extend 
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:acai10/DiaLog---iOS-Blood-Glucose-Insulin-Tracking-App.git
+   git clone git@github.com:acai10/DiaLog-iOS-Blood-Glucose-Insulin-Tracking-App.git
    ```
 2. **Open in Xcode:** Open `DiaLog.xcodeproj`
 3. **Resolve dependencies:** Xcode will automatically fetch the Realm package via Swift Package Manager on first launch.  
